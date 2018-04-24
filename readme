@@ -1,0 +1,14 @@
+
+1. install gin by 
+
+go get github.com/gin-gonic/gin
+
+2. install
+
+go install main.go
+
+3. run
+
+cd $GOPATH/bin
+
+./racebook_Backend
